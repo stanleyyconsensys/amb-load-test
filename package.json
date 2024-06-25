@@ -1,0 +1,20 @@
+{
+  "name": "amb-query-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-crypto/sha256-js": "^4.0.0",
+    "@aws-sdk/credential-provider-node": "^3.360.0",
+    "@aws-sdk/protocol-http": "^3.357.0",
+    "@aws-sdk/signature-v4": "^3.357.0",
+    "axios": "^1.4.0",
+    "bitcoinjs-lib": "^6.1.5",
+    "dotenv": "^16.4.5"
+  }
+}
